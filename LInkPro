@@ -1,0 +1,11 @@
+shadowsocks = 185.188.61.119:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=欧洲(Youtube频道：工具大师！)
+shadowsocks = 137.59.52.107:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=欧洲(Youtube频道：工具大师！) 2
+shadowsocks = 208.78.41.195:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, fast-open=false, tag=欧洲(Youtube频道：工具大师！) 3
+shadowsocks = 89.238.130.253:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=欧洲(Youtube频道：工具大师！) 4
+shadowsocks = 86.106.136.85:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, fast-open=false, tag=欧洲(Youtube频道：工具大师！) 5
+shadowsocks = 165.231.253.147:31757, method=aes-256-gcm, password=wj7nDCuNARchSeKNCN8VFK62, fast-open=false, tag=🇮🇳 印度(Youtube频道：工具大师！)
+shadowsocks = 37.120.221.5:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=欧洲(Youtube频道：工具大师！) 6
+shadowsocks = 2.58.241.3:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=🇨🇳 台湾(Youtube频道：工具大师！)
+shadowsocks = 165.231.253.147:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇮🇳 印度(Youtube频道：工具大师！) 2
+shadowsocks = 2.58.242.45:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=🇨🇳 台湾(Youtube频道：工具大师！) 2
+shadowsocks = 154.16.168.186:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, fast-open=false, tag=🇺🇸 美国(Youtube频道：工具大师！)
