@@ -9,3 +9,23 @@ shadowsocks = 2.58.241.3:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJ
 shadowsocks = 165.231.253.147:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇮🇳 印度(Youtube频道：工具大师！) 2
 shadowsocks = 2.58.242.45:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=🇨🇳 台湾(Youtube频道：工具大师！) 2
 shadowsocks = 154.16.168.186:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, fast-open=false, tag=🇺🇸 美国(Youtube频道：工具大师！)
+shadowsocks = 138.199.16.137:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=欧洲（感谢关注youtube：8度科技） 8
+shadowsocks = 86.106.136.85:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, fast-open=false, tag=🇷🇴 罗马尼亚（感谢关注youtube：8度科技） 3
+shadowsocks = 2.58.241.5:41676, method=aes-256-gcm, password=z6pH3RyttkRWhJ5tpRyt6dYk, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 30
+shadowsocks = 185.128.24.34:808, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 SG（感谢关注youtube：8度科技） 4
+shadowsocks = 185.128.24.34:806, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 SG🇸🇬 SG（感谢关注youtube：8度科技）
+shadowsocks = 185.128.24.34:804, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 SG（感谢关注youtube：8度科技） 2
+shadowsocks = 64.44.42.162:31944, method=aes-256-gcm, password=aYNeKDMzYQYw4KbUbJA8Wszq, fast-open=false, tag=🇺🇸 US（感谢关注youtube：8度科技）（感谢关注youtube：8度科技） 4
+shadowsocks = 2.58.241.3:44745, method=aes-256-gcm, password=fyXdw87yCH9SAmFkPvsvLVqC, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 2
+shadowsocks = 185.128.24.34:800, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 新加坡（感谢关注youtube：8度科技）
+shadowsocks = 89.37.95.23:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=🇷🇴 罗马尼亚（感谢关注youtube：8度科技） 7
+shadowsocks = 137.59.52.107:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, fast-open=false, tag=🇮🇳 印度 印多尔（感谢关注youtube：8度科技）
+shadowsocks = 154.16.168.186:50232, method=aes-256-gcm, password=CjchzpwdSjRtDjezYMwx9BKM, fast-open=false, tag=🇺🇸 US（感谢关注youtube：8度科技） 37
+shadowsocks = 2.58.241.3:48938, method=aes-256-gcm, password=4ejJ8n5ddLuYDUHGXJre2ufJ, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 4
+shadowsocks = 2.58.241.3:39556, method=aes-256-gcm, password=g4AfpNELpdYEeLYhM8XCX9se, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 20
+shadowsocks = 89.238.130.227:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, fast-open=false, tag=🇬🇧 英国 英格兰（感谢关注youtube：8度科技） 2
+shadowsocks = 154.16.168.186:39556, method=aes-256-gcm, password=g4AfpNELpdYEeLYhM8XCX9se, fast-open=false, tag=🇺🇸 US（感谢关注youtube：8度科技） 36
+shadowsocks = 2.58.241.3:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技）
+shadowsocks = 2.58.241.3:48089, method=aes-256-gcm, password=apqQgXJyVDsdJMAYV4xspRFK, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 15
+shadowsocks = 2.58.241.5:32843, method=aes-256-gcm, password=G35YSR2LFNEM9bq2dkjmKQRr, fast-open=false, tag=🇨🇳 台湾（感谢关注youtube：8度科技） 43
+shadowsocks = 89.238.130.253:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, fast-open=false, tag=🇬🇧 英国 英格兰（感谢关注youtube：8度科技） 3
