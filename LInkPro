@@ -142,3 +142,95 @@ vmess = az.zf01.ssru8.club:58803, method=chacha20-ietf-poly1305, password=acee9a
 ;vmess = 52.175.16.90:58802, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=t.me/vpnhat, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_4778
 vmess = 13.94.7.205:80, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=13.94.7.205, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_4785
 vmess = az.zf01.ssru8.club:58802, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=az.zf01.ssru8.club, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_4787
+vmess = 18.166.178.36:80, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=18.166.178.36, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_5658
+vmess = 18.167.94.242:80, method=chacha20-ietf-poly1305, password=cec85927-8a7a-4866-df8c-27ed589de0ce, obfs=ws, obfs-host=pull.free.video.10010.com, obfs-uri=/TS/recharge/tzUrl.html, fast-open=false, tag=🇭🇰 HK_5659
+trojan = hk2.ifl520.xyz:16005, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=hk2.ifl520.xyz, fast-open=false, tls-verification=true, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5682
+trojan = hk1.ifl520.xyz:16001, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=hk1.ifl520.xyz, fast-open=false, tls-verification=true, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5681
+shadowsocks = 54.251.230.216:18332, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, fast-open=false, tag=🇸🇬 SG_11099
+vmess = 103.85.20.176:12345, method=chacha20-ietf-poly1305, password=fbfa2417-3597-344a-9d50-0030ce14ce63, fast-open=false, tag=🇨🇳 CN_2634
+vmess = az.zf01.ssru8.club:58802, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=az.zf01.ssru8.club, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5668
+vmess = 52.229.154.191:80, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=52.229.154.191, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_5678
+shadowsocks = 103.85.20.83:43552, method=aes-256-cfb, password=GUTGQJ, fast-open=false, tag=🇨🇳 CN_2618
+shadowsocks = 165.231.253.147:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=Pool_🇮🇳IN_6096
+shadowsocks = 185.160.26.170:809, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7240
+vmess = 52.175.16.90:58802, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=t.me/vpnhat, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5673
+trojan = t5.ssrsub.one:8443, password=fe74a1aa-4849-4239-838e-1e7d9f6e975d, over-tls=true, tls-host=t5.ssrsub.one, fast-open=false, tls-verification=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_17651
+trojan = t5.ssrsub.one:8443, password=7622e286-0c41-412e-8381-1fe7a2da2c91, over-tls=true, tls-host=t5.ssrsub.one, fast-open=false, tls-verification=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_17652
+vmess = 65.52.187.168:80, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=65.52.187.168, obfs-uri=/, fast-open=false, tag=_907
+vmess = az.zf01.ssru8.club:58802, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=az.zf01.ssru8.club, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5671
+trojan = jp1.ifl520.xyz:15001, password=ea6e0d6a-2e18-3afb-82d8-2408de425832, over-tls=true, tls-host=jp1.ifl520.xyz, fast-open=false, tls-verification=true, tag=🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7320
+vmess = vtwonet-tw-a.qjnodeip.xyz:10086, method=chacha20-ietf-poly1305, password=98C330C9-18E2-4383-7671-244300271813, fast-open=false, tag=🇨🇳 Relay_🇹🇼TW-🇹🇼TW_11511
+vmess = af01.uwork.mobi:80, method=chacha20-ietf-poly1305, password=00000000-0000-0000-0000-000000000001, fast-open=false, tag=🇯🇵 Relay_-🇯🇵JP_901
+shadowsocks = 2.58.242.54:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, fast-open=false, tag=🇨🇳 TW_11436
+vmess = 18.166.178.36:80, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=18.166.178.36, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_5666
+shadowsocks = 165.231.253.147:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=Pool_🇮🇳IN_6071
+vmess = aws.mooncloud.bike:10020, method=chacha20-ietf-poly1305, password=87e1a810-f15f-4688-86b2-4185c71f974f, obfs=ws, obfs-host=aws.mooncloud.bike, obfs-uri=/, fast-open=false, tag=🇯🇵 Relay_🇯🇵JP-🇯🇵JP_7285
+shadowsocks = 2.58.242.45:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=🇨🇳 Pool_🇹🇼 TW_11361
+vmess = 103.85.20.83:12345, method=chacha20-ietf-poly1305, password=e5ff0f0d-46e1-3b2f-b642-a394bc8d9904, fast-open=false, tag=Pool__904
+shadowsocks = 178.255.45.187:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=PL_8310
+shadowsocks = 2.58.242.54:44539, method=aes-256-gcm, password=r6hDrkP4Et6EENTS8Qy7Tcmg, fast-open=false, tag=🇨🇳 TW_11441
+shadowsocks = 156.146.62.57:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, tag=🇺🇸 US_12951
+shadowsocks = 156.146.62.57:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, fast-open=false, tag=🇺🇸 US_13754
+vmess = 65.52.187.168:80, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=65.52.187.168, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_5663
+vmess = 52.175.16.90:58802, method=chacha20-ietf-poly1305, password=acee9a77-5023-4793-8c3b-46b464ba10b6, obfs=ws, obfs-host=t.me/vpnhat, obfs-uri=/, fast-open=false, tag=🇭🇰 Relay_🇭🇰HK-🇭🇰HK_5679
+shadowsocks = 165.231.253.147:32558, method=aes-256-gcm, password=gJYzm3TLbdL495ryQptaJXQk, fast-open=false, tag=Pool_🇮🇳IN_6107
+shadowsocks = 178.255.45.187:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=PL_8334
+shadowsocks = 2.58.241.29:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, tag=🇨🇳 Pool_🇹🇼 TW_11357
+shadowsocks = 156.146.62.57:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, fast-open=false, tag=🇺🇸 US_12290
+shadowsocks = 13.213.251.185:18331, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, fast-open=false, tag=🇺🇸 US_14237
+trojan = t1.ssrsub.one:8443, password=7622e286-0c41-412e-8381-1fe7a2da2c91, over-tls=true, tls-host=t1.ssrsub.one, fast-open=false, tls-verification=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_17641
+shadowsocks = 208.78.41.195:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, fast-open=false, tag=Pool_🇨🇦CA_2397
+vmess = 103.85.20.176:12345, method=chacha20-ietf-poly1305, password=a8521d3c-742c-34c1-a4d8-4a8ed4fab601, fast-open=false, tag=🇨🇳 CN_2642
+vmess = ld07.xqkj.cloud:1517, method=chacha20-ietf-poly1305, password=6e412940-1b34-49e5-b4f1-84ded6d0b73f, obfs=ws, obfs-host=ld07.xqkj.cloud, obfs-uri=/, fast-open=false, tag=Relay_🇬🇧GB-🇬🇧GB_5368
+vmess = 13.94.7.205:80, method=chacha20-ietf-poly1305, password=db3954ee-c19e-46a7-8a13-8e7befcfcd80, obfs=ws, obfs-host=13.94.7.205, obfs-uri=/, fast-open=false, tag=🇭🇰 HK_5656
+shadowsocks = 178.255.45.187:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, tag=PL_8365
+shadowsocks = 178.255.45.187:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, fast-open=false, tag=PL_8451
+shadowsocks = 2.58.241.27:38033, method=aes-256-gcm, password=xpQwyV4W5FdA6NMANJJx73US, fast-open=false, tag=🇨🇳 Pool_🇹🇼 TW_11365
+shadowsocks = 2.58.241.45:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=🇨🇳 Pool_🇹🇼TW_11489
+shadowsocks = 156.146.62.57:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, fast-open=false, tag=🇺🇸 US_12840
+shadowsocks = 154.16.168.188:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_14929
+shadowsocks = 185.188.61.83:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3629
+shadowsocks = 185.188.61.83:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3823
+shadowsocks = 178.255.45.187:37588, method=aes-256-gcm, password=kD9vkjnE6dsUzwQfvKkPkQAd, fast-open=false, tag=PL_8471
+shadowsocks = 178.255.45.187:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, fast-open=false, tag=PL_8526
+shadowsocks = 185.128.24.34:802, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 SG_11098
+shadowsocks = 2.58.242.54:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=🇨🇳 TW_11394
+shadowsocks = 2.58.242.54:42816, method=aes-256-gcm, password=tBKBf4pVzNCFKdbPgvwrNXq3, fast-open=false, tag=🇨🇳 TW_11404
+shadowsocks = 156.146.62.57:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, tag=🇺🇸 US_14045
+shadowsocks = 198.8.92.84:46412, method=aes-256-gcm, password=GEqk9WGyybeyXW97YEdanDYs, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_14656
+shadowsocks = 198.8.92.84:44539, method=aes-256-gcm, password=r6hDrkP4Et6EENTS8Qy7Tcmg, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_14731
+shadowsocks = 138.199.16.137:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, fast-open=false, tag=Pool_🏁ZZ_18442
+shadowsocks = 138.199.16.137:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, fast-open=false, tag=Pool_🏁ZZ_18529
+shadowsocks = 208.78.41.195:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, fast-open=false, tag=Pool_🇨🇦CA_2374
+shadowsocks = 208.78.41.195:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, fast-open=false, tag=Pool_🇨🇦CA_2384
+shadowsocks = 185.188.61.83:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3637
+shadowsocks = 185.188.61.83:48794, method=aes-256-gcm, password=r9Q3adc3ru9sfBDPEj4yp6U6, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3689
+shadowsocks = 185.188.61.83:46642, method=aes-256-gcm, password=gYL83DQWXuDbxmZAVVtUTXaK, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3773
+shadowsocks = 165.231.253.147:31764, method=aes-256-gcm, password=YgusH2MWA8PWc3p2VDsR7AVv, fast-open=false, tag=Pool_🇮🇳IN_6208
+shadowsocks = 165.231.253.147:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, fast-open=false, tag=Pool_🇮🇳IN_6216
+shadowsocks = 178.255.45.187:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=PL_8378
+shadowsocks = 178.255.45.187:44236, method=aes-256-gcm, password=FWrXcxPZjJxAN89xLgqY3Acp, fast-open=false, tag=PL_8414
+shadowsocks = 178.255.45.187:44820, method=aes-256-gcm, password=jspgz9G3VmvBMCgMUWLBaZHu, fast-open=false, tag=PL_8503
+shadowsocks = 178.255.45.187:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, fast-open=false, tag=PL_8508
+shadowsocks = 185.128.24.34:806, method=chacha20-ietf-poly1305, password=G!yBwPWH3Vao, fast-open=false, tag=🇸🇬 SG_11097
+shadowsocks = 156.146.62.57:40093, method=aes-256-gcm, password=x23Z4LGkGDkThZ9Kaz4DURQp, fast-open=false, tag=🇺🇸 US_11843
+shadowsocks = 198.8.92.84:31572, method=aes-256-gcm, password=n8w4StnbVD9dmXYn4Ajt87EA, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_12269
+shadowsocks = 192.154.253.67:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_14095
+vmess = freehk.miao.rest:80, method=chacha20-ietf-poly1305, password=c3cd5c42-9527-4777-973d-a9d33b30bb9a, obfs=ws, obfs-host=pull.free.video.10010.com, obfs-uri=/, fast-open=false, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_17629
+trojan = usa-server-01.f7256f.cn:443, password=36ebef7d1b1d6205fd0c55f28800e674, over-tls=true, tls-host=usa-server-01.f7256f.cn, fast-open=false, tls-verification=true, tag=🇺🇸 Relay_🇺🇸US-🇺🇸US_17650
+shadowsocks = 103.152.151.85:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, tag=Pool_🏁ZZ_18208
+shadowsocks = 193.29.107.101:50168, method=aes-256-gcm, password=WCuz7yrfZSCQQXSNrtGPz2HT, fast-open=false, tag=Pool__572
+shadowsocks = 2.58.242.45:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, tag=Pool__687
+vmess = inap.yaoxinyang.xyz:11451, method=chacha20-ietf-poly1305, password=42b5e1a5-4c5a-4dd9-a2ea-c7cab281a84a, obfs=ws, obfs-host=inap.yaoxinyang.xyz, obfs-uri=/, fast-open=false, tag=🇷🇺 Relay_-🇷🇺RU_913
+shadowsocks = 185.164.34.250:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, tag=Pool_🇧🇦BA_2039
+shadowsocks = 208.78.41.195:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, fast-open=false, tag=Pool_🇨🇦CA_2359
+shadowsocks = 208.78.41.195:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, tag=Pool_🇨🇦CA_2372
+shadowsocks = 185.188.61.83:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3670
+shadowsocks = 185.188.61.83:49653, method=aes-256-gcm, password=Y9GcTPemHMKEkrfGQPJqFDNr, fast-open=false, tag=🇪🇸 Pool_🇪🇸ES_3765
+shadowsocks = 178.255.45.187:35294, method=aes-256-gcm, password=J9Y2ncrdPEC38gwydNFFGBna, fast-open=false, tag=PL_8422
+shadowsocks = 178.255.45.187:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, fast-open=false, tag=PL_8483
+shadowsocks = 2.58.242.45:38742, method=aes-256-gcm, password=DKXfWwc4ebscpXTKpbt85rSH, fast-open=false, tag=🇨🇳 Pool_🇹🇼TW_11451
+shadowsocks = 2.58.241.45:33998, method=aes-256-gcm, password=NHwQTPLCfaTMSqTnU3mjcSxe, fast-open=false, tag=🇨🇳 Pool_🇹🇼TW_11493
+shadowsocks = 156.146.62.57:42304, method=aes-256-gcm, password=p26v2JwhQVHDHsXk66fXt56r, fast-open=false, tag=🇺🇸 US_12430
+shadowsocks = 156.146.62.57:34815, method=aes-256-gcm, password=LkFAzkzXkSCRYa2CsRdL8cGb, fast-open=false, tag=🇺🇸 US_14106
+shadowsocks = 134.195.196.118:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, tag=ZZ_18528
