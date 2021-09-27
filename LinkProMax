@@ -1,28 +1,26 @@
-shadowsocks = 172.105.42.160:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=IN_8999
-vmess = groupb.chbjpw.mobi:40001, method=chacha20-ietf-poly1305, password=88c69d99-d00d-46c5-bd2e-fc4af2e59043, fast-open=false, tag=🇨🇳 Relay_🇨🇳CN-🇹🇼TW_4151
-shadowsocks = 45.79.127.97:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=IN_9016
-shadowsocks = 154.17.2.95:18334, method=chacha20-ietf-poly1305, password=Z3YS0KxB8u5jgp736e834y3DaXwSOYzxlFDFqpNCaalDA9CEIRceZOCAnR2yTS, fast-open=false, tag=🇺🇸 US_15099
-shadowsocks = 143.244.57.118:46726, method=aes-256-gcm, password=2fqKbFPGHpcmMTJzGsUbsfYf, fast-open=false, tag=🇫🇷 FR_6736
-vmess = groupb.chbjpw.mobi:60002, method=chacha20-ietf-poly1305, password=88c69d99-d00d-46c5-bd2e-fc4af2e59043, fast-open=false, tag=🇸🇬 Relay_🇨🇳CN-🇸🇬SG_4176
-vmess = groupb.chbjpw.mobi:10001, method=chacha20-ietf-poly1305, password=88c69d99-d00d-46c5-bd2e-fc4af2e59043, fast-open=false, tag=🇯🇵 Relay_🇨🇳CN-🇯🇵JP_4190
-shadowsocks = 172.104.206.241:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=IN_9005
-shadowsocks = 143.244.57.118:49468, method=aes-256-gcm, password=LsYSQDxmPj9AcWpSX5HrYfu6, fast-open=false, tag=🇫🇷 FR_6614
-shadowsocks = 62.112.9.220:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, tag=🇳🇱 NL_11178
-shadowsocks = 143.244.57.118:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, fast-open=false, tag=🇫🇷 FR_6930
-shadowsocks = 143.244.57.118:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, fast-open=false, tag=🇫🇷 FR_7241
-shadowsocks = 143.244.57.118:45948, method=aes-256-gcm, password=j76EXqJcQhuQTr3EvUf7xaK9, fast-open=false, tag=🇫🇷 FR_6690
-shadowsocks = 66.115.177.156:50695, method=aes-256-gcm, password=gqtwGu9bVreJqL3FTHSVKGzy, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_19532
-shadowsocks = 66.115.177.156:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_19534
-shadowsocks = 143.244.57.118:38620, method=aes-256-gcm, password=Kquv5UhvZXNMemAQy8DxZ7qn, fast-open=false, tag=🇫🇷 FR_6939
-shadowsocks = 143.244.57.118:45329, method=aes-256-gcm, password=CXSjgD7u7Ar7GxkZ4CgTMUsj, fast-open=false, tag=🇫🇷 FR_7271
-vmess = groupa.chbjpw.mobi:60002, method=chacha20-ietf-poly1305, password=88c69d99-d00d-46c5-bd2e-fc4af2e59043, fast-open=false, tag=🇸🇬 Relay_🇨🇳CN-🇸🇬SG_4163
-shadowsocks = 172.105.63.34:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=IN_8998
-shadowsocks = 66.115.177.156:45948, method=aes-256-gcm, password=j76EXqJcQhuQTr3EvUf7xaK9, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_19576
-shadowsocks = 172.105.55.72:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=IN_9175
-shadowsocks = 66.115.177.136:49339, method=aes-256-gcm, password=suucSeVLmt6PQKAP77NtGw9x, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_12628
-shadowsocks = 46.29.218.6:8091, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, tag=NO_11270
-shadowsocks = 143.244.57.118:41992, method=aes-256-gcm, password=XmQSxDCn5ehpcq6DBYms8FJf, fast-open=false, tag=🇫🇷 FR_6520
-shadowsocks = 195.181.171.233:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, fast-open=false, tag=Pool_🇬🇧GB_8031
-shadowsocks = 185.166.84.51:47027, method=aes-256-gcm, password=Vt5pBJFwdtNB26cJbTXxm88Z, fast-open=false, tag=🇫🇷 Pool_🇫🇷FR_7135
-shadowsocks = 66.115.177.156:47121, method=aes-256-gcm, password=CTK8GXFQgKYQErrghPJfZ6tk, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_18211
-shadowsocks = 66.115.177.156:33148, method=aes-256-gcm, password=CMduaFXddcQbwNAAs7xFDnc8, fast-open=false, tag=🇺🇸 Pool_🇺🇸US_17915
+shadowsocks = 62.212.239.53:50024, method=aes-256-gcm, password=b2jDPHUQxCNa2KmGHZjy7C4B, fast-open=false, udp-relay=true, tag=馃嚘馃嚳AZ_2026
+shadowsocks = 89.45.7.51:49396, method=aes-256-gcm, password=BdRWC38L5JUDMTYNNxJGcUwB, fast-open=false, udp-relay=true, tag=Pool_馃嚛馃嚢DK_5702
+shadowsocks = 143.244.57.118:48970, method=aes-256-gcm, password=ZKEsXkFbUZ2z667YA8A7cEDP, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6348
+shadowsocks = 143.244.57.118:49468, method=aes-256-gcm, password=LsYSQDxmPj9AcWpSX5HrYfu6, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6316
+vmess = 51.116.183.141:80, method=chacha20-ietf-poly1305, password=da7e32ba-5c26-4452-b13a-473bd2054f6c, obfs=ws, obfs-host=51.116.183.141, obfs-uri=/sshstores, fast-open=false, udp-relay=true, tag=🇩🇪 馃嚛馃嚜DE_5634
+shadowsocks = 143.244.57.118:49514, method=aes-256-gcm, password=dpGjA4GkzV28QPDYzEp94cTe, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6279
+shadowsocks = 143.244.57.118:49202, method=aes-256-gcm, password=btzEYXKZxnR7g6H2vFTQK5TD, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6321
+shadowsocks = 143.244.57.118:47553, method=aes-256-gcm, password=t2JnnFqjDMmzWurseJPgBsYY, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6346
+shadowsocks = 143.244.57.118:42166, method=aes-256-gcm, password=H9Dbn3szZMqLR3NpgEFEPCKb, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6485
+shadowsocks = 134.195.196.79:7306, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_2931
+shadowsocks = 143.244.57.118:50695, method=aes-256-gcm, password=gqtwGu9bVreJqL3FTHSVKGzy, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6363
+shadowsocks = 143.244.57.118:46726, method=aes-256-gcm, password=2fqKbFPGHpcmMTJzGsUbsfYf, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6406
+shadowsocks = 143.244.57.118:47861, method=aes-256-gcm, password=LJcChRsGQRhywrtXUU55TLTu, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6392
+shadowsocks = 89.249.73.195:43893, method=aes-256-gcm, password=YyCBeDdYX4cadHpCkkmdJLq8, fast-open=false, udp-relay=true, tag=🇧🇪 Pool_馃嚙馃嚜BE_2465
+shadowsocks = 134.195.196.71:7307, method=aes-256-gcm, password=FoOiGlkAA9yPEGP, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_2892
+shadowsocks = 134.195.196.110:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_2913
+shadowsocks = 134.195.196.163:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_3012
+shadowsocks = 193.108.118.34:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=🇩🇪 馃嚛馃嚜DE_5390
+shadowsocks = 134.195.196.97:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_3020
+shadowsocks = 143.244.57.118:45948, method=aes-256-gcm, password=j76EXqJcQhuQTr3EvUf7xaK9, fast-open=false, udp-relay=true, tag=🇫🇷 馃嚝馃嚪FR_6460
+shadowsocks = 84.17.53.219:33992, method=aes-256-gcm, password=8n6pwAcrrv2pj6tFY2p3TbQ6, fast-open=false, udp-relay=true, tag=Pool_馃嚚馃嚟CH_3714
+shadowsocks = 193.108.118.34:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=🇩🇪 馃嚛馃嚜DE_5154
+shadowsocks = 193.108.118.34:2376, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=🇩🇪 馃嚛馃嚜DE_5504
+shadowsocks = 66.115.147.79:39772, method=aes-256-gcm, password=CUndSZnYsPKcu6Kj8THVMBHD, fast-open=false, udp-relay=true, tag=Pool_馃嚚馃嚘CA_3402
+shadowsocks = 198.57.27.238:8090, method=aes-256-gcm, password=PCnnH6SQSnfoS27, fast-open=false, udp-relay=true, tag=馃嚚馃嚘CA_3444
+shadowsocks = 193.108.118.79:2375, method=aes-256-gcm, password=faBAoD54k87UJG7, fast-open=false, udp-relay=true, tag=🇩🇪 馃嚛馃嚜DE_5442
